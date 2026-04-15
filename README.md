@@ -37,5 +37,5 @@ I'm a **Software Programming Student** at UTN (Universidad Tecnológica Nacional
 --- 
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](TU_LINK_A_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ramirezfacuu01)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramirezfacundoo01@gmail.com)
